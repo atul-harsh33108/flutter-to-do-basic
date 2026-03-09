@@ -1,4 +1,4 @@
-# Flutter To-Do Basic ->>>
+# Flutter To-Do Basic ->>
 
 A simple cross‑platform To‑Do mobile application built with Flutter that
 helps users manage daily tasks efficiently.
@@ -14,22 +14,22 @@ management, and local data persistence.
 
 ## Features
 
-- Add new tasks
-- Mark tasks as completed or incomplete
-- Delete tasks
-- Persistent local storage using SharedPreferences
-- Automatic task restoration when the app restarts
-- Simple and responsive Material UI
+-   Add new tasks
+-   Mark tasks as completed or incomplete
+-   Delete tasks
+-   Persistent local storage using SharedPreferences
+-   Automatic task restoration when the app restarts
+-   Simple and responsive Material UI
 
 ------------------------------------------------------------------------
 
 ## Tech Stack
 
-- Flutter -- Cross‑platform mobile app framework
-- Dart -- Programming language used for Flutter development
-- SharedPreferences -- Local persistent storage
-- Material UI -- UI components and design system
-- Git & GitHub -- Version control and project hosting
+-   Flutter -- Cross‑platform mobile app framework
+-   Dart -- Programming language used for Flutter development
+-   SharedPreferences -- Local persistent storage
+-   Material UI -- UI components and design system
+-   Git & GitHub -- Version control and project hosting
 
 ------------------------------------------------------------------------
 
@@ -51,11 +51,11 @@ management, and local data persistence.
 
 ## How the Application Works
 
-1. The user enters a task in the input field.
-2. The task is added dynamically to the task list.
-3. Users can mark tasks as completed or delete them.
-4. Tasks are saved locally using SharedPreferences.
-5. When the application restarts, saved tasks are automatically loaded.
+1.  The user enters a task in the input field.
+2.  The task is added dynamically to the task list.
+3.  Users can mark tasks as completed or delete them.
+4.  Tasks are saved locally using SharedPreferences.
+5.  When the application restarts, saved tasks are automatically loaded.
 
 ------------------------------------------------------------------------
 
@@ -87,6 +87,7 @@ Physical Android or iOS device
 (Add screenshots here after capturing them from the app)
 
 Example:
+
     ![Home Screen](assets/screenshots/home.png)
     ![Task Added](assets/screenshots/add_task.png)
 
@@ -94,22 +95,22 @@ Example:
 
 ## Learning Outcomes
 
-- Flutter widget-based UI development
-- State management using StatefulWidgets
-- Local data persistence using SharedPreferences
-- Dynamic list updates and UI rebuilds
-- Basic Flutter project structure and development workflow
+-   Flutter widget-based UI development
+-   State management using StatefulWidgets
+-   Local data persistence using SharedPreferences
+-   Dynamic list updates and UI rebuilds
+-   Basic Flutter project structure and development workflow
 
 ------------------------------------------------------------------------
 
 ## Future Improvements
 
-- Task editing feature
-- Task filtering (All / Completed / Pending)
-- Dark mode support
-- State management using Provider or BLoC
-- Cloud sync using Firebase
-- Task reminders and notifications
+-   Task editing feature
+-   Task filtering (All / Completed / Pending)
+-   Dark mode support
+-   State management using Provider or BLoC
+-   Cloud sync using Firebase
+-   Task reminders and notifications
 
 ------------------------------------------------------------------------
 
@@ -117,7 +118,9 @@ Example:
 
 Atul Harsh
 
+
 GitHub: https://github.com/atul-harsh33108\
+
 
 ------------------------------------------------------------------------
 
