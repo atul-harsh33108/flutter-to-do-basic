@@ -116,7 +116,7 @@ Example:
 
 ## Author
 
-Atul Harsh\
+Atul Harsh
 
 
 GitHub: https://github.com/atul-harsh33108\
