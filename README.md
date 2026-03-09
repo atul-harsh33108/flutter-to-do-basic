@@ -117,11 +117,10 @@ Example:
 ## Author
 
 Atul Harsh\
-B.Tech Computer Science and Engineering\
-Lovely Professional University
+
 
 GitHub: https://github.com/atul-harsh33108\
-LinkedIn: https://www.linkedin.com/in/atul-harsh
+
 
 ------------------------------------------------------------------------
 
